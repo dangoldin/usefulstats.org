@@ -1,0 +1,5 @@
+baseURL = "https://usefulstats.org/"
+languageCode = "en-us"
+title = "Useful Stats"
+
+theme = "book"
